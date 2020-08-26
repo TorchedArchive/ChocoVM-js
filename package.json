@@ -1,0 +1,30 @@
+{
+  "name": "chocovm",
+  "version": "0.0.1",
+  "description": "A Chip-8 VM/Interpreter in the terminal ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node . -n PONG"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luvella/ChocoVM.git"
+  },
+  "keywords": [
+    "vm",
+    "chip8",
+    "interpreter",
+    "terminal",
+    "emulator",
+    "blessed"
+  ],
+  "author": "Luvella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luvella/ChocoVM/issues"
+  },
+  "homepage": "https://github.com/Luvella/ChocoVM#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
