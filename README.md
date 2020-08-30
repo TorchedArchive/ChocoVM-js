@@ -5,15 +5,12 @@ ChocoVM is a Chip-8 VM that allows you to play any Chip-8 game. ChocoVM itself a
 
 # Install 
 ```
-npm i chocovm -g
-```  
-or
-```
 git clone https://github.com/Luvella/ChocoVM
 cd ChocoVM
 npm i
 npm link
 ```
+If you don't want to install globally, the `npm link` is not necessary.
 
 # Usage
 When installed globally, ChocoVM can be invoked with:
