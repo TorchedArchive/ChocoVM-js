@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const chocovm = require('../lib');
 const fs = require('fs');
 

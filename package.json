@@ -1,6 +1,6 @@
 {
   "name": "chocovm",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Chip-8 VM/Interpreter in the terminal ",
   "main": "src/index.js",
   "scripts": {
@@ -26,5 +26,8 @@
   "homepage": "https://github.com/Luvella/ChocoVM#readme",
   "dependencies": {
     "blessed": "^0.1.81"
+  },
+  "bin": {
+    "chocovm": "src/index.js"
   }
 }
