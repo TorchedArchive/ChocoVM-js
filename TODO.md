@@ -1,0 +1,9 @@
+- [ ] Debugging capabilities 
+  - [ ] Step execution
+  - [ ] View values of registers
+  - [ ] See instruction being executed 
+  - [ ] Continue on unknown OP
+- [ ] Sound 
+- [ ] Keyboard 
+- [ ] Modularity 
+  - Different modules for a specific purpose (sound, screen, CPU, etc.)
