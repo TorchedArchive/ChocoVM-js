@@ -1,5 +1,8 @@
-# ChocoVM
-> 🍫 Chip-8 VM in the terminal, made with Node.js.
+<div align="center">
+  <img src="https://modeus.is-inside.me/13fg3jgW.png" width="256">
+	<blockquote>🍫 Chip-8 VM in the terminal, made with Node.js.</blockquote>
+	<br>
+</div>
 
 ChocoVM is a Chip-8 VM that allows you to play any Chip-8 game. ChocoVM itself also acts as an extension with color, more RAM and other things.
 
